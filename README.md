@@ -39,7 +39,7 @@ Contents
 - [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio) - A collection of AI services and APIs offered by Microsoft Azure. [Students start with $100 free Azure credits](https://azure.microsoft.com/en-us/free/students) <== you will need an account here to use AI Studio
 
 ## 💻 Local Models
-- Llama
+- [Llama](https://simonwillison.net/2024/Apr/22/llama-3/) Run llama3 locally using `llm` package
 - Mixtral
 - Phi
 - [Apple OpenELM](https://huggingface.co/apple/OpenELM), a family of Open Efficient Language Models. 270M, 450M, 1.1B and 3B parameters
