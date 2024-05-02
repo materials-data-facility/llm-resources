@@ -37,6 +37,7 @@ Contents
 - [Hugging Face](https://huggingface.co/models) - API access to a wide range of machine learning models. [How to use Llama on HF](https://www.youtube.com/watch?v=LA-hZDnn5Hc)
 - [Google Vertex AI](https://cloud.google.com/generative-ai-studio) - A suite of AI and machine learning APIs provided by Google Cloud.  $150 credits upon signup
 - [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio) - A collection of AI services and APIs offered by Microsoft Azure. [Students start with $100 free Azure credits](https://azure.microsoft.com/en-us/free/students) <== you will need an account here to use AI Studio
+- [Groq](https://console.groq.com/docs/models) Exceptionally fast inference for a variety of models. Fairly high rate limits for free tier, though can't find exact documentation.
 
 ## 💻 Local Models
 - [Llama](https://simonwillison.net/2024/Apr/22/llama-3/) Run llama3 locally using `llm` package
