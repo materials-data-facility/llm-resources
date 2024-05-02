@@ -41,6 +41,7 @@ Contents
 - Llama
 - Mixtral
 - Phi
+- [Apple OpenELM](https://huggingface.co/apple/OpenELM), a family of Open Efficient Language Models. 270M, 450M, 1.1B and 3B parameters
 
 ## Offers
 - [GitHub student developer pack](https://education.github.com/pack#offers)
