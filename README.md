@@ -24,6 +24,7 @@ Contents
 
 - [🔌 APIs](#apis)
 - [💻 Local](#local)
+- Offers
 - 📚 Tutorials and Examples
 
 <!-- CONTENT -->
@@ -40,6 +41,9 @@ Contents
 - Llama
 - Mixtral
 - Phi
+
+## Offers
+- [GitHub student developer pack](https://education.github.com/pack#offers)
   
 ## Contributing
 
