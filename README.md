@@ -30,6 +30,12 @@ Contents
 
 <!-- CONTENT -->
 
+## 🎓 Basics 
+
+- If you only have time for 8 minutes, let “Ryan Gosling” explain LLMs to you. [YouTube](https://youtu.be/xU_MFS_ACrU?si=gGVQh6l6dGrnbLjJ)
+- “Getting started with huggingface.co in 15 min”. AssemblyAI, [YouTube](https://youtu.be/QEaBAZQCtwE?si=1iEMlPOzEx75_zXe). This is what I used to run my first open-source model. Gives you some understanding of how to use the transformers Python library and what Models and Tasks are.
+- “Neural Networks” (visualized). 3Blue1Brown (Grant Sanderson), [YouTube](https://youtu.be/aircAruvnKk?si=f6ihC9TuIh_Wwhqg), [homepage](https://www.3blue1brown.com/#lessons): Gives you a nice intuition on how neural networks in general and transformers work in particular. I recommend the transformer/attention video (chapter 6) as it also gives a good sense of the scale of an LLM like GPT-3.
+- “Neural networks from zero to hero” (i.e. from gradient descent to transformers), Andrej Karpathy, [YouTube](https://youtu.be/VMj-3S1tku0?si=HQHzq6PaD_2P470t): step-by-step coding instructions that I recommend following and reproducing to get some technical understanding of what is happening in NN and LLMs
 
 ## 🔌 APIs
 
@@ -47,9 +53,20 @@ Contents
 
 ## 🎁 Offers and Promotions
 - [GitHub student developer pack](https://education.github.com/pack#offers)
+- 15$ at [NLP Cloud](https://nlpcloud.com/)
+- [Google Colab](https://www.google.com/search?q=colab&sca_esv=e3b0e6080babb4e8&sca_upv=1&gbv=2&sxsrf=ACQVn0-TPjEhC22olFvD6F_Q1bvHvcBnhA:1714493958904&ei=BhoxZpDQNsToi-gPoZudMA&ved=0ahUKEwiQ647bq-qFAxVE9AIHHaFNBwYQ4dUDCBA&uact=5&oq=colab&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWNvbGFiMgoQABiABBhDGIoFMgsQABiABBiRAhiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYywEyBRAAGIAEMgoQABiABBgKGMsBMgoQABiABBgUGIcCMgUQLhiABEiKBlDlAViGBXABeAGQAQCYAXmgAZcEqgEDMi4zuAEDyAEA-AEBmAIGoAKjBMICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIEECMYJ8ICChAuGIAEGEMYigXCAgsQLhiABBjRAxjHAcICChAjGIAEGCcYigXCAhAQLhiABBjRAxhDGMcBGIoFwgINEC4YgAQYQxjUAhiKBZgDAIgGAZAGCJIHAzMuM6AHzjc&sclient=gws-wiz-serp)
+- [LightningStudio](https://lightning.ai/)
+- [Azure](https://azure.microsoft.com/en-us/free/students)
 
 ## 🧰 Software and Tools
 - [LLM CLI Utility](https://llm.datasette.io/en/stable/index.html) from Datasette
+- [huggingface.co](http://huggingface.co/), The GitHub for models. Use and share your NN models.
+- [LangChain](https://github.com/langchain-ai/langchain), LangChain is a framework for developing applications powered by LLMs
+- [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl), if you want to get into fine-tuning
+- on new Macs, [mlx](https://github.com/ml-explore/mlx) is a very fast way to run LLMs
+- [access to LLMs via API](https://console.groq.com/settings/limits) via Groq (limited to 30 req/min)
+- 100 req/day at [Awan LLM](https://www.awanllm.com/pricing)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#llm-training-frameworks), a very deep awesome list with all the relevant papers and projects.
 
 ## Contributing
 
