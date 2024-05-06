@@ -36,6 +36,8 @@ Contents
 - “Getting started with huggingface.co in 15 min”. AssemblyAI, [YouTube](https://youtu.be/QEaBAZQCtwE?si=1iEMlPOzEx75_zXe). This is what I used to run my first open-source model. Gives you some understanding of how to use the transformers Python library and what Models and Tasks are.
 - “Neural Networks” (visualized). 3Blue1Brown (Grant Sanderson), [YouTube](https://youtu.be/aircAruvnKk?si=f6ihC9TuIh_Wwhqg), [homepage](https://www.3blue1brown.com/#lessons): Gives you a nice intuition on how neural networks in general and transformers work in particular. I recommend the transformer/attention video (chapter 6) as it also gives a good sense of the scale of an LLM like GPT-3.
 - “Neural networks from zero to hero” (i.e. from gradient descent to transformers), Andrej Karpathy, [YouTube](https://youtu.be/VMj-3S1tku0?si=HQHzq6PaD_2P470t): step-by-step coding instructions that I recommend following and reproducing to get some technical understanding of what is happening in NN and LLMs
+- [Building an LLM Agent](https://kjablonka.com/blog/posts/building_an_llm_agent/) by Kevin Jablonka and other [LLM posts](https://kjablonka.com/index.html#category=llm)
+
 
 ## 🔌 APIs
 
