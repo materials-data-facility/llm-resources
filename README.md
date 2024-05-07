@@ -70,6 +70,10 @@ Contents
 - 100 req/day at [Awan LLM](https://www.awanllm.com/pricing)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#llm-training-frameworks), a very deep awesome list with all the relevant papers and projects.
 
+## 📚 Tutorials and Examples
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) from DeepLearning.AI
+- [Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/) from DeepLearning.AI
+
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
